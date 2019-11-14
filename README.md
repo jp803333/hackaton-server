@@ -1,5 +1,7 @@
 # Installation
 
+
+## Use python 3.6
 ```bash
 git clone https://github.com/jp803333/hackaton-server
 cd hackaton-server\
