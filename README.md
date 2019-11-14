@@ -2,9 +2,9 @@
 
 ```bash
 git clone https://github.com/jp803333/hackaton-server
-cd hackaton-server\\
+cd hackaton-server\
 virtualenv env
-cd env\\scripts
+cd env\scripts
 activate
 cd ..
 cd ..
