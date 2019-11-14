@@ -1,7 +1,7 @@
 # Installation
 
 ```bash
-git clone 
+git clone https://github.com/jp803333/hackaton-server
 cd restlib\\
 virtualenv env
 cd env\\scripts
