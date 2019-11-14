@@ -2,7 +2,7 @@
 
 ```bash
 git clone https://github.com/jp803333/hackaton-server
-cd restlib\\
+cd hackaton-server\\
 virtualenv env
 cd env\\scripts
 activate
